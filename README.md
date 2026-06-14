@@ -4,7 +4,7 @@ This dataset provides a comprehensive simulation of Starbucks customer ordering 
 
 ## Repository Overview
 
-1. [Charts](Figures) in task 1.
+1. [Charts](Figures).
 2. My presentation can be  viewed through [this pptx presentation](Presentation.pptx) in this repository or [this Canva presentation](https://canva.link/f3u8k7qwhfo7ktk).
 
 ---
