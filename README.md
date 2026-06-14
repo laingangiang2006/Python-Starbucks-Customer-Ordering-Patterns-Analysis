@@ -5,7 +5,7 @@ This dataset provides a comprehensive simulation of Starbucks customer ordering 
 ## Repository Overview
 
 1. [Charts](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/tree/main/Figures).
-2. My presentation can be  viewed through [this pptx presentation](Presentation.pptx) in this repository or [this Canva presentation](https://canva.link/f3u8k7qwhfo7ktk).
+2. My presentation can be  viewed through [this pdf](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) in this repository or [this Canva infographic](https://canva.link/2jbk8lweezz6tus).
 
 ---
 
