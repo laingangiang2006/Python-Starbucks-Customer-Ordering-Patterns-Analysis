@@ -1,6 +1,6 @@
 # Starbucks Customer Ordering Patterns
 
-This dataset provides a comprehensive simulation of Starbucks customer ordering patterns across 100000 transactions, bridging the gap between digital and physical retail channels over a two-year period (2024–2025).
+An exploratory data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, examining how customers order across digital and physical channels.
 
 ## Repository Overview
 
