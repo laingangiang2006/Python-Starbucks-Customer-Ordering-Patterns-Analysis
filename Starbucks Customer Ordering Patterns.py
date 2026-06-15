@@ -47,14 +47,18 @@ print(df.describe())
 orders_per_day = df["Day of Week"].value_counts()
 orders_per_day.index.name = "Orders per day"
 
+print(orders_per_day)
+
 # Count the number of unique customer ids for each day of the week
 unique_customer_count_per_day = df.groupby("Day of Week")["Customer ID"].nunique()
 unique_customer_count_per_day.index.name = "Unique Customer Count per day"
 
 print(unique_customer_count_per_day)
 
+# Pivot table
 pivot_table1 = pd.concat([orders_per_day, unique_customer_count_per_day], axis=1)
 pivot_table1.columns=("Order per day", "Number of Unique Customers")
+
 print(pivot_table1)
 
 # Visualization of the number of orders and customer count per day of the week
