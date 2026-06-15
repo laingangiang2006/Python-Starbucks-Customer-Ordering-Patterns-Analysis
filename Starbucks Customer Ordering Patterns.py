@@ -164,7 +164,7 @@ plt.show()
 
 # Distribution of Visits by Day of Week
 day_order = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
-visits_per_day = visits_per_day.reindex(day_order)
+visits_per_day = orders_per_day.reindex(day_order)  # ← use orders_per_day here
 colors = ["steelblue", "coral", "mediumseagreen", "gold", "orchid", "tomato", "skyblue"]
 plt.figure(figsize=(10, 6))
 plt.pie(visits_per_day.values, labels=visits_per_day.index, colors=colors, autopct="%1.1f%%")
