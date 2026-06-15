@@ -1,5 +1,4 @@
-<img width="6400" height="3600" alt="Untitled-2-640x360-1" src="https://github.com/user-attachments/assets/2135098b-4348-4499-90e0-9d7163fc002e" />
-
+<img width="6010" height="1870" alt="Starbucks_Logo_Letter_Starbucks_Green" src="https://github.com/user-attachments/assets/c8bb8d88-d038-4697-98d9-82d319893399" />
 
 # Starbucks Customer Ordering Patterns
 
