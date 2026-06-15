@@ -1,3 +1,6 @@
+<img width="640" height="360" alt="Untitled-2-640x360-1" src="https://github.com/user-attachments/assets/2135098b-4348-4499-90e0-9d7163fc002e" />
+
+
 # Starbucks Customer Ordering Patterns
 
 An exploratory data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, examining how customers order across digital and physical channels.
