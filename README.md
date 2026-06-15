@@ -16,7 +16,7 @@ A data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, exa
 | [README.md](https://github.com/laingangiang2006/Netflix-Movies-and-TV-Shows/blob/main/README.md) | Project documentation |
 | [Charts](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/tree/main/Figures) | Charts |
 | [Starbucks_Customer_Ordering_Patterns Dataset](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/starbucks_customer_ordering_patterns.csv) | Raw dataset |
-| [Starbucks Customer Ordering Patterns.py](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns.py) | Python workbook |
+| [Starbucks Customer Ordering Patterns](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns.py) | Python workbook |
 | [Starbucks Customer Ordering Patterns Infographic](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) | Visual summary of key findings and insights |
 
 ---
