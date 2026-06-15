@@ -12,8 +12,11 @@ An exploratory data analysis of 100000 Starbucks transactions spanning from 2024
 Starbucks-Customer-Ordering-Patterns/
 
 ├── [Figures](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/tree/main/Figures) # Output charts
+
 ├── [Starbucks Customer Ordering Patterns.py](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns.py) # Main analysis script
+
 ├── [Starbucks Customer Ordering Patterns Infographic.pdf](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf)
+
 └── [starbucks_customer_ordering_patterns.csv](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/starbucks_customer_ordering_patterns.csv) # Dataset
 
 ---
