@@ -1,6 +1,6 @@
 <img width="6010" height="1870" alt="Starbucks_Logo_Letter_Starbucks_Green" src="https://github.com/user-attachments/assets/c8bb8d88-d038-4697-98d9-82d319893399" />
 
-# Starbucks Customer Ordering Patterns
+# Starbucks Customer Ordering Patterns Analysis
 
 A data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, examining how customers order across digital and physical channels.
 
