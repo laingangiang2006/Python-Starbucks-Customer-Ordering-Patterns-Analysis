@@ -36,4 +36,6 @@ A data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, exa
 
 ## License
 
-This project is for educational purposes. Dataset credit: [Likitha Gedipudi on Kaggle](https://www.kaggle.com/datasets/likithagedipudi/starbucks-customer-ordering-patterns/data)
+This project is for educational purposes. 
+
+Dataset credit: [Likitha Gedipudi on Kaggle](https://www.kaggle.com/datasets/likithagedipudi/starbucks-customer-ordering-patterns/data)
