@@ -6,7 +6,7 @@ A data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, exa
 
 <img width="1920" height="1080" alt="Bản sao của Work-Life Balance and Longevity" src="https://github.com/user-attachments/assets/c38e5159-7c65-4d28-bde5-71db0dd06a46" /> 
 
-> Alternatively, you can view it in [Canva](https://canva.link/2jbk8lweezz6tus).
+> Alternatively, you can view it in Canva [here](https://canva.link/2jbk8lweezz6tus).
 
 ---
 
