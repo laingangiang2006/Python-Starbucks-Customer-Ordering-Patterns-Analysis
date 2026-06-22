@@ -6,6 +6,8 @@
 
 A data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, examining how customers order across digital and physical ## Infographic
 
+The dataset is uploaded by [Likitha Gedipudi on Kaggle](https://www.kaggle.com/datasets/likithagedipudi/starbucks-customer-ordering-patterns/data).
+
 ---
 
 ## Infographic
@@ -48,4 +50,4 @@ This is my storytelling infographic, created on Canva, after doing an analysis a
 
 This project is for educational purposes. 
 
-Dataset credit: [Likitha Gedipudi on Kaggle](https://www.kaggle.com/datasets/likithagedipudi/starbucks-customer-ordering-patterns/data)
+Dataset credit: [Likitha Gedipudi on Kaggle](https://www.kaggle.com/datasets/likithagedipudi/starbucks-customer-ordering-patterns/data).
