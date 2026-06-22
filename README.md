@@ -28,7 +28,7 @@ This is my storytelling infographic, created on Canva, after doing an analysis a
 | [Starbucks Customer Ordering Patterns](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns.py) | Python workbook |
 | [Infographic](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) (or view in Canva [here](https://canva.link/2jbk8lweezz6tus)) | Visual summary of key findings and insights |
 
-> If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/starbucks-customer-ordering-patterns)
+> If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/starbucks-customer-ordering-patterns).
 
 ---
 
