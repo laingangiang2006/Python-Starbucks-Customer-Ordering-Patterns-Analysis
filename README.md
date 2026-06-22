@@ -2,7 +2,15 @@
 
 # Starbucks Customer Ordering Patterns Analysis
 
-A data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, examining how customers order across digital and physical channels.
+## Dataset Overview
+
+A data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, examining how customers order across digital and physical ## Infographic
+
+---
+
+## Infographic
+
+This is my storytelling infographic, created on Canva, after doing an analysis and chart visualization by Python.
 
 <img width="1920" height="1080" alt="Bản sao của Work-Life Balance and Longevity" src="https://github.com/user-attachments/assets/c38e5159-7c65-4d28-bde5-71db0dd06a46" /> 
 
