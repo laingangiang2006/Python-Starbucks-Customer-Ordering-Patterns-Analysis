@@ -16,6 +16,8 @@ This is my storytelling infographic, created on Canva, after doing an analysis a
 
 <img width="1920" height="1080" alt="Bản sao của Work-Life Balance and Longevity" src="https://github.com/user-attachments/assets/c38e5159-7c65-4d28-bde5-71db0dd06a46" /> 
 
+> Alternatively, you can view the diagram by downloading this pđf [infographic](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf).
+
 ---
 
 ## Repository Structure
@@ -26,7 +28,7 @@ This is my storytelling infographic, created on Canva, after doing an analysis a
 | [Charts](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/tree/main/Figures) | Charts |
 | [Starbucks_Customer_Ordering_Patterns Dataset](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/starbucks_customer_ordering_patterns.csv) | Raw dataset |
 | [Starbucks Customer Ordering Patterns](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns.py) | Python workbook |
-| [Infographic](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) | Visual summary of key findings and insights |
+| [Infographic](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) | Visual summary of key findings and insights (pdf file) |
 
 > If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/starbucks-customer-ordering-patterns).
 
