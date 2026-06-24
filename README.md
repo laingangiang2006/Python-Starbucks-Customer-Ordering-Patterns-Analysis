@@ -34,15 +34,15 @@ This is my storytelling infographic, created on Canva, after doing an analysis a
 
 ---
 
-## Tools & Libraries
+## Tools & Languages
 
-| Tool | Purpose |
+| Tool/Language | Purpose |
 |------|---------|
-| Python 3.x | Core language |
-| pandas | Data manipulation |
-| numpy | Numerical operations |
-| matplotlib | Charting |
-| seaborn | Statistical visualization |
+| **Python** | Core language |
+| **Pandas** | Data manipulation |
+| **NumPy** | Numerical operations |
+| **Matplotlib** | Charting |
+| **Seaborn** | Statistical visualization |
 
 ---
 
