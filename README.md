@@ -38,11 +38,9 @@ This is my storytelling infographic, created on Canva, after doing an analysis a
 
 | Tool/Language | Purpose |
 |------|---------|
-| **Python** | Core language |
-| **Pandas** | Data manipulation |
-| **NumPy** | Numerical operations |
-| **Matplotlib** | Charting |
-| **Seaborn** | Statistical visualization |
+| **Python and Python Libraries (Pandas, NumPy, Matplotlib, Seaborn)** | Data analysis, visualization |
+| **VSCode** | Text edittor |
+| **Canva** | Chart visualization and infographic creation |
 
 ---
 
