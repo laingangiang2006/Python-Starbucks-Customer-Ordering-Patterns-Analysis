@@ -26,7 +26,7 @@ This is my storytelling infographic, created on Canva, after doing an analysis a
 |------|-------------|
 | [README.md](https://github.com/laingangiang2006/Netflix-Movies-and-TV-Shows/blob/main/README.md) | Project documentation |
 | [Figures](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/tree/main/Figures) | Figures |
-| [Starbucks_Customer_Ordering_Patterns Dataset](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/starbucks_customer_ordering_patterns.csv) | Raw dataset |
+| [Starbucks Customer Ordering Patterns Dataset](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/starbucks_customer_ordering_patterns.csv) | Raw dataset |
 | [Starbucks Customer Ordering Patterns](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns.py) | Python workbook |
 | [Infographic](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) | Infographic (pdf file) |
 
