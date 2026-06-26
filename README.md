@@ -2,6 +2,8 @@
 
 # Exploratory Data Analysis of Starbucks Customer Ordering Patterns
 
+This exploratory data analysis project analyzes 100,000 Starbucks transactions (2024–2025) to uncover customer ordering patterns across digital and physical channels by product, time, and behavior.
+
 The core question needed to be answer in this project is: 
 
 > How do Starbucks customers order across digital and physical channels, and what patterns emerge by product, time, and behaviour?
