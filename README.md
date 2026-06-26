@@ -1,6 +1,6 @@
 <img width="6010" height="1870" alt="Starbucks_Logo_Letter_Starbucks_Green" src="https://github.com/user-attachments/assets/c8bb8d88-d038-4697-98d9-82d319893399" />
 
-# Starbucks Customer Ordering Patterns Analysis
+# Exploratory Starbucks Customer Ordering Patterns Data Analysis
 
 The core question needed to be answer in this project is: 
 
@@ -10,7 +10,7 @@ The core question needed to be answer in this project is:
 
 ## Dataset Overview
 
-A data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, examining how customers order across digital and physical ## Infographic
+A dataset for an exploratory data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, examining how customers order across digital and physical ## Infographic
 
 The dataset is uploaded by [Likitha Gedipudi on Kaggle](https://www.kaggle.com/datasets/likithagedipudi/starbucks-customer-ordering-patterns/data).
 
