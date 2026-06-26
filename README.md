@@ -46,8 +46,8 @@ This is the storytelling infographic, designed in Canva to communicate insights 
 |------|---------|
 | **VSCode** | Text editor |
 | **Python & Python Libraries (Pandas, NumPy, Matplotlib, Seaborn)** | Data manipulation, analysis, and visualization |
-| **Kaggle Notebook** | Cloud-based notebook environment for data analysis and visualization |
 | **Kaggle Dataset** | Source of publicly available datasets for analysis |
+| **Kaggle Notebook** | Cloud-based notebook environment for data analysis and visualization |
 | **Canva** | Chart and infographic design |
 
 ---
