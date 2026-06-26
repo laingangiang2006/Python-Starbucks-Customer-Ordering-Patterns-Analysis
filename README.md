@@ -2,6 +2,12 @@
 
 # Starbucks Customer Ordering Patterns Analysis
 
+The core question needed to be answer in this project is: 
+
+> How do Starbucks customers order across digital and physical channels, and what patterns emerge by product, time, and behaviour?
+
+---
+
 ## Dataset Overview
 
 A data analysis of 100000 Starbucks transactions spanning from 2024 to 2025, examining how customers order across digital and physical ## Infographic
