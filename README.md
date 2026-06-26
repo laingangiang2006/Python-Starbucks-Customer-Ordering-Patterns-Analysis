@@ -12,7 +12,7 @@ The dataset is uploaded by [Likitha Gedipudi on Kaggle](https://www.kaggle.com/d
 
 ## Infographic
 
-This is the storytelling infographic, designed in Canva to communicate insights derived from Excel-based analysis, including functions, pivot tables, and pivot charts.
+This is the storytelling infographic, designed in Canva to communicate insights derived from Python-based analysis, including functions, pivot tables, and pivot charts.
 
 <img width="1920" height="1080" alt="Bản sao của Work-Life Balance and Longevity" src="https://github.com/user-attachments/assets/c38e5159-7c65-4d28-bde5-71db0dd06a46" /> 
 
