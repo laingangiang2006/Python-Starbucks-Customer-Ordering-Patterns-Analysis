@@ -1,6 +1,6 @@
 <img width="6010" height="1870" alt="Starbucks_Logo_Letter_Starbucks_Green" src="https://github.com/user-attachments/assets/c8bb8d88-d038-4697-98d9-82d319893399" />
 
-# Exploratory Starbucks Customer Ordering Patterns Data Analysis
+# Exploratory Data Analysis of Starbucks Customer Ordering Patterns
 
 The core question needed to be answer in this project is: 
 
