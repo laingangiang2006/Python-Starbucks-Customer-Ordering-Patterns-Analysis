@@ -45,7 +45,7 @@ This is the storytelling infographic, designed in Canva to communicate insights 
 | Tool/Language | Purpose |
 |------|---------|
 | **Python and Python Libraries (Pandas, NumPy, Matplotlib, Seaborn)** | Data analysis, visualization |
-| **VSCode** | Text edittor |
+| **VSCode** | Text editor |
 | **Canva** | Chart visualization and infographic creation |
 
 ---
